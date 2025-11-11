@@ -71,7 +71,7 @@ Perfect for developers who want to distribute Python scripts as standalone execu
 
 ```bash
 # Clone the repository | Clona il repository
-git clone https://github.com/tuo-username/exe-creator.git
+git clone https://github.com/pgweblab/exe-creator.git
 cd exe-creator
 
 # Run the application | Esegui l'applicazione
