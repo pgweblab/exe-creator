@@ -67,17 +67,6 @@ Perfect for developers who want to distribute Python scripts as standalone execu
 - Windows (testato su Windows 10/11 | tested on Windows 10/11)
 - Spazio disco: ~500MB per ambiente virtuale + dipendenze | Disk space: ~500MB for virtual environment + dependencies
 
-## 🚀 Installazione | Installation
-
-```bash
-# Clone the repository | Clona il repository
-git clone https://github.com/pgweblab/exe-creator.git
-cd exe-creator
-
-# Run the application | Esegui l'applicazione
-python exe_creator.py
-```
-
 ## 💡 Utilizzo | Usage
 
 ### Workflow Standard | Standard Workflow
